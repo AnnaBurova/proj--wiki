@@ -3,7 +3,7 @@
 ```
 > git rebase -i HEAD~n
 ```
-<n> is number of commits behind.
+`n` is number of commits behind.
 
 Change `pick` to `r` for those commits that you want to update the message.
 Don't bother changing the commit message here, it will be ignored.

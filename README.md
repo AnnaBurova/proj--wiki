@@ -27,3 +27,5 @@ Andere will keine Zeit verlieren / verschwänden
 
 Wie reagierens Sie in hektischen Situationen?
 Wie gelassen bleiben Sie, wenn andere Leute Zeit anders planen?
+
+bewussten Gedanken, dass Sie besser werden wollen. Jetzt!

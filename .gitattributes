@@ -38,6 +38,10 @@ readme  text  eol=lf
 TODO  text  eol=lf
 *.txt  text  eol=lf
 
+## TRANSLATION ################################################################################## ##
+
+*.strings  text  eol=lf
+
 ## CONFIGS ###################################################################################### ##
 
 *.bowerrc  text  eol=lf

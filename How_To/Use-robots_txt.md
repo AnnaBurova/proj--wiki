@@ -10,10 +10,10 @@
 
 Вот самые распространённые в Рунете поисковые боты.
 
-- **Рамблер** - StackRambler
-- **Яндекс** - Yandex
-- **Google** - Googlebot
-- **MSN** - msnbot
+- **Рамблер:** StackRambler
+- **Яндекс:** Yandex
+- **Google:** Googlebot
+- **MSN:** msnbot
 
 Если Вы хотите отнести ваш запрет одновременно ко всем поисковым ботам, то поставьте вместо названия бота звездочку (\*).
 
@@ -23,7 +23,7 @@
 
 Вот как это будет выглядеть:
 
-```
+```robots.txt
 User-agent: *
 Disallow: /error404.php
 Disallow: /error500.php

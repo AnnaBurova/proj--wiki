@@ -1,8 +1,9 @@
 # Git: Rename commit after push
 
-```
+```git
 > git rebase -i HEAD~n
 ```
+
 `n` is number of commits behind.
 
 Change `pick` to `r` for those commits that you want to update the message.
